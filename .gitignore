@@ -152,6 +152,7 @@ dmypy.json
 .pytype/
 
 # Cython debug symbols
+.DS_Store
 cython_debug/
 
 # PyCharm
