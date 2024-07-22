@@ -37,3 +37,4 @@ if st.checkbox('Toggle Plot Type'):
         st.plotly_chart(hist_model_year)
     elif plot_type == 'Scatter Plot':
         st.plotly_chart(fig_model_year)
+
