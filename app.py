@@ -3,7 +3,8 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
-vehicles = pd.read_csv('~/Notebook/Project_4/vehicles_us.csv')
+#vehicles = pd.read_csv('~/Notebook/Project_4/vehicles_us.csv')
+vehicles = pd.read_csv('vehicles_us.csv')
 
 st.header('Vehicles_adv')
 st.subheader('Car_price')
