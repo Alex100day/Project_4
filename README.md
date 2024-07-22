@@ -8,7 +8,7 @@ Clone repository:   https://github.com/Alex100day/Project_4.git
 Navigate into the project directory: ~ % /opt/anaconda3/bin/python /Users/alexkhol/Notebook/Project_4/app.py
 
 Original dataset file: vehicles_us.csv
-The main part of the projecct python script is on Jupyter notebook in VS code. Filename:  Cars_data.ipynb
+The main part of the projecct python script is on Jupyter notebook in VS code. Filename:  EDA.ipynb
 
 Run streamlit application: streamlit app.py
 
