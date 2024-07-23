@@ -16,7 +16,7 @@ Next, in order to develop web applications we create app.py file in the root dir
 figures in EDA.ippynb will be copied to app.py. After getting all files with necessary results and contents we will commit and push them \ 
 to the git repository. Committing and pushing processes of any update/change on the git repository files and directories will be done repeatedly \ 
 until getting the final results on the web app. """
-st.subheader('Car advertisement')
+st.subheader(introduction)
 
 
 #Preprosessing ['model_year'], ['cylinders'], ['odometer'] columns
