@@ -12,7 +12,7 @@ The main part of the projecct python script is on Jupyter notebook in VS code. F
 
 Run streamlit application: streamlit app.py
 
-app URL: https://project-4-m1ov.onrender.com
+app URL: https://project-4-sf0p.onrender.com
 
 Contributions are welcome.
 
